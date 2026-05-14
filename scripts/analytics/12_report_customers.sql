@@ -13,7 +13,7 @@ Highlights:
 	   - total sales
 	   - total quantity purchased
 	   - total products
-	   - lifespan (in months)
+	   - months difference (in months)
     4. Calculates valuable KPIs:
 	    - recency (months since last order)
 		- average order value
